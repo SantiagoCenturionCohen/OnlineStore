@@ -12,6 +12,7 @@ OnlineStore
 │   ├── Services
 │   └── UserService.csproj
 │
+
 ├── ProductService
 │   ├── Controllers
 │   ├── Models
@@ -19,6 +20,7 @@ OnlineStore
 │   ├── Services
 │   └── ProductService.csproj
 │
+
 ├── OrderService
 │   ├── Controllers
 │   ├── Models
@@ -26,6 +28,7 @@ OnlineStore
 │   ├── Services
 │   └── OrderService.csproj
 │
+
 ├── PaymentService
 │   ├── Controllers
 │   ├── Models
@@ -33,6 +36,7 @@ OnlineStore
 │   ├── Services
 │   └── PaymentService.csproj
 │
+
 ├── NotificationService
 │   ├── Controllers
 │   ├── Models
@@ -40,6 +44,7 @@ OnlineStore
 │   ├── Services
 │   └── NotificationService.csproj
 │
+
 └── OnlineStore.sln
 
 # Installation 
