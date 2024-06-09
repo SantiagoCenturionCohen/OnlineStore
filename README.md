@@ -6,72 +6,42 @@ OnlineStore is an order management system designed for online stores seeking a c
 OnlineStore
 │
 ├── UserService
--
 │   ├── Controllers
--
 │   ├── Models
--
 │   ├── Data
--
 │   ├── Services
--
 │   └── UserService.csproj
 │
---
 ├── ProductService
--
 │   ├── Controllers
--
 │   ├── Models
--
 │   ├── Data
--
 │   ├── Services
--
 │   └── ProductService.csproj
 │
---
 ├── OrderService
--
 │   ├── Controllers
--
 │   ├── Models
--
 │   ├── Data
--
 │   ├── Services
--
 │   └── OrderService.csproj
---
 │
 ├── PaymentService
--
 │   ├── Controllers
--
 │   ├── Models
--
 │   ├── Data
--
 │   ├── Services
--
 │   └── PaymentService.csproj
 │
---
 ├── NotificationService
--
 │   ├── Controllers
--
 │   ├── Models
--
 │   ├── Data
--
 │   ├── Services
--
 │   └── NotificationService.csproj
--
 │
---
 └── OnlineStore.sln
+
 
 
 # Installation 
